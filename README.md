@@ -1,4 +1,4 @@
-# IoT Street Light & Water Level Controller 💡💧
+IoT Street Light & Water Level Controller 💡💧
 
 A versatile ESP32-based automation project that combines two essential smart home functions into a single controller: intelligent street light scheduling and precise water tank level monitoring.
 
