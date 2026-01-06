@@ -24,7 +24,7 @@
 
 // WiFi Credentials
 const char* ssid = "wifi-name";
-const char* password = "wifi-password";
+const char* password = "password";
 
 // Time Settings
 const char* ntpServer = "in.pool.ntp.org";
